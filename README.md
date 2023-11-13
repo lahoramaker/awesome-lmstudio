@@ -2,7 +2,7 @@
 
 LM Studio is a desktop application to discover, download, and run local Large Language Models. 
 
-For additional information, check the [FAQ at the wiki](https://github.com/lahoramaker/awesome-lmstudio/wiki).
+For additional information and some troubleshooting steps, check the [FAQ at the wiki](https://github.com/lahoramaker/awesome-lmstudio/wiki).
 
 ### TODO
 Find additional tutorials and integration guides to populate this page
